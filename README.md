@@ -1,4 +1,12 @@
 # AJ2
+
+### 수업일지
+
+  2022-07-16  Frame Sampling YOLOv5 CNN SSD FPN
+
+  2022-07-23  CNN
+
+
 AJ2 - CNN-based Pupil Segmentation
 
 
