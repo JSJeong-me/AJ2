@@ -6,7 +6,7 @@
     
     2022-07-21  YOLOv5 pupil bounding-box training data & model 생성
 
-    2022-07-23  CNN - model 생성
+    2022-07-23  Data Annotation - Roboflow & YOLOv5 model 생성
     
     2022-07-27  VGG16 pretrained model
 
