@@ -10,6 +10,8 @@
     
     2022-07-27  VGG16 pretrained model
 
+    2022-07-28  Resnet 32 fastai    Rock Paper Sissors images folder ->  https://url.kr/voylkq
+
 
 AJ2 - CNN-based Pupil Segmentation
 
